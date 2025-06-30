@@ -68,7 +68,7 @@
                     <parallel>methods</parallel>
                     <threadCount>3</threadCount>
                     <systemPropertyVariables>
-                        <allure.results.directory>${project.build.directory}/../allure-results</allure.results.directory>
+                        <allure.results.directory>${project.build.directory}/allure-results</allure.results.directory>
                     </systemPropertyVariables>
                 </configuration>
                 <dependencies>
