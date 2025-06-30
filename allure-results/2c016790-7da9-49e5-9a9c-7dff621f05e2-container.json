@@ -1,1 +1,0 @@
-{"uuid":"2c016790-7da9-49e5-9a9c-7dff621f05e2","name":"todo.base.BaseTest.setup","children":["6e8234f6-1760-4820-87ca-3a8e8bef3726"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1751283707936,"stop":1751283712486}],"afters":[],"start":1751283707934,"stop":1751283712486}
